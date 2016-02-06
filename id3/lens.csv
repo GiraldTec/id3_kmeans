@@ -1,0 +1,17 @@
+age,specRx,astig,tears,class
+pre_presbyopic,myopia,no,reduced,no
+pre_presbyopic,myopia,no,normal,soft
+pre_presbyopic,myopia,yes,reduced,no
+pre_presbyopic,myopia,yes,normal,hard
+pre_presbyopic,high_hypermetropia,no,reduced,no
+pre_presbyopic,high_hypermetropia,no,normal,soft
+pre_presbyopic,high_hypermetropia,yes,reduced,no
+pre_presbyopic,high_hypermetropia,yes,normal,no
+presbyopic,myopia,no,reduced,no
+presbyopic,myopia,no,normal,no
+presbyopic,myopia,yes,reduced,no
+presbyopic,myopia,yes,normal,hard
+presbyopic,high_hypermetropia,no,reduced,no
+presbyopic,high_hypermetropia,no,normal,soft
+presbyopic,high_hypermetropia,yes,reduced,no
+presbyopic,high_hypermetropia,yes,normal,no
